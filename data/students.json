@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@email.com",
+    "age": 20,
+    "grade": "A",
+    "major": "Computer Science",
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith@email.com",
+    "age": 22,
+    "grade": "B+",
+    "major": "Mathematics",
+    "createdAt": "2024-01-15T11:00:00.000Z",
+    "updatedAt": "2024-01-15T11:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Mike Johnson",
+    "email": "mike.johnson@email.com",
+    "age": 21,
+    "grade": "A-",
+    "major": "Physics",
+    "createdAt": "2024-01-15T11:30:00.000Z",
+    "updatedAt": "2024-01-15T11:30:00.000Z"
+  },
+  {
+    "id": 4,
+    "name": "Sarah Wilson",
+    "email": "sarah.wilson@email.com",
+    "age": 19,
+    "grade": "B",
+    "major": "English Literature",
+    "createdAt": "2024-01-15T12:00:00.000Z",
+    "updatedAt": "2024-01-15T12:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "name": "David Brown",
+    "email": "david.brown@email.com",
+    "age": 23,
+    "grade": "A+",
+    "major": "Engineering",
+    "createdAt": "2024-01-15T12:30:00.000Z",
+    "updatedAt": "2024-01-15T12:30:00.000Z"
+  },
+  {
+    "id": 6,
+    "name": "Mohamed Ali",
+    "email": "ali@email.com",
+    "age": null,
+    "grade": null,
+    "major": null,
+    "createdAt": "2025-11-16T17:00:45.532Z",
+    "updatedAt": "2025-11-16T17:00:45.535Z"
+  },
+  {
+    "id": 7,
+    "name": "Mohamed Ali",
+    "email": "ali@email.com",
+    "age": null,
+    "grade": null,
+    "major": null,
+    "createdAt": "2025-11-16T17:03:42.570Z",
+    "updatedAt": "2025-11-16T17:03:42.571Z"
+  }
+]
